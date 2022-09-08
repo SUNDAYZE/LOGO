@@ -35,9 +35,11 @@ body{
         background-position: 0 100%;
     }
 }
-.my-style{
+h1{
 color: greenyellow;
 padding: 3px;
-
-
+text-align: center;
 }
+a {
+    color: hotpink;
+  }
